@@ -1,0 +1,10 @@
+<resources>
+    <array name="genres">
+        <item>Select Party To Vote</item>
+        <item>TRS</item>
+        <item>TDP</item>
+        <item>CONGREES</item>
+        <item>BJP</item>
+    </array>
+    <string name="app_name">Votingapp</string>
+</resources>

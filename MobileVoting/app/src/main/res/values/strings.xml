@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MobileVoting</string>
+    <array name="genres">
+        <item>TRS</item>
+        <item>TDP</item>
+        <item>CONGREES</item>
+        <item>BJP</item>
+    </array>
+
+</resources>
