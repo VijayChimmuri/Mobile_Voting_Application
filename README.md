@@ -9,3 +9,7 @@ Below are images of the application
 2. Interface of the App
    ![image](https://github.com/VijayChimmuri/Mobile_Voting_Application/assets/116940537/c01c639a-3377-475b-82d6-7b7005edc77c)
 
+3. Voting page
+   ![image](https://github.com/VijayChimmuri/Mobile_Voting_Application/assets/116940537/964110e7-499b-4b34-b1c0-43c1a4a97948)
+
+
