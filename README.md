@@ -5,3 +5,7 @@ Below are images of the application
 
 1. Sign up / Login page
 ![image](https://github.com/VijayChimmuri/Mobile_Voting_Application/assets/116940537/5f676f52-3944-40ae-8c84-aea060a6cedf)
+
+2. Interface of the App
+   ![image](https://github.com/VijayChimmuri/Mobile_Voting_Application/assets/116940537/c01c639a-3377-475b-82d6-7b7005edc77c)
+
